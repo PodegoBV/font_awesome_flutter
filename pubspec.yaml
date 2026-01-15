@@ -25,14 +25,14 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: FontAwesomeBrands
-      fonts:
-        - asset: lib/fonts/Font-Awesome-7-Brands-Regular-400.otf
-          weight: 400
-    - family: FontAwesomeRegular
-      fonts:
-        - asset: lib/fonts/Font-Awesome-7-Free-Regular-400.otf
-          weight: 400
+#    - family: FontAwesomeBrands
+#      fonts:
+#        - asset: lib/fonts/Font-Awesome-7-Brands-Regular-400.otf
+#          weight: 400
+#    - family: FontAwesomeRegular
+#      fonts:
+#        - asset: lib/fonts/Font-Awesome-7-Free-Regular-400.otf
+#          weight: 400
     - family: FontAwesomeSolid
       fonts:
         - asset: lib/fonts/Font-Awesome-7-Free-Solid-900.otf
